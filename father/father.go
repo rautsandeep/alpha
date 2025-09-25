@@ -1,5 +1,15 @@
-package father
+package main
 
-func Test() string{
-	return "This string is returned from the test func from the father package")
+
+import ("fmt"
+"github.com/rautsandeep/alpha/father/first"
+)
+
+func main() {
+
+fmt.Println("This is from the alpha package")
+fmt.Println(first.Test())
+
+
 }
+
