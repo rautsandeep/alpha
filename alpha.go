@@ -11,7 +11,7 @@ func main() {
 	fmt.Println(dog.Doggy())
 
 }
-func Alphatest() string {
+func Alphatest()  {
 fmt.Println("from the alpha packate")
 }
 
