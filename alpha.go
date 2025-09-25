@@ -7,6 +7,6 @@ import (
 
 func main() {
 
-	fmt.Println ("This is from the alpha package")
-	fmt.Println (dog.Doggy())
+	fmt.Println("This is from the alpha package")
+	fmt.Println(dog.Doggy())
 }

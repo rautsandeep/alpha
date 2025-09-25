@@ -6,4 +6,6 @@ import (
 )
 func Doggy() string{
 
-return "This is from the package dog func doggy"}
+fmt.Println("this has been printed from the dog package")
+return "This is from the package dog func doggy"
+}
