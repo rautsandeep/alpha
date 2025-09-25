@@ -9,4 +9,9 @@ func main() {
 
 	fmt.Println("This is from the alpha package")
 	fmt.Println(dog.Doggy())
+
 }
+func Alphatest() string {
+fmt.Println("from the alpha packate")
+}
+
