@@ -4,6 +4,7 @@ import(
   "fmt"
 )
 
-func Apac() {
-  fmt.Println("this input is from the apac remote region")
+func Apac() string {
+  return fmt.Println("this input is from the apac remote region")
+
   }
